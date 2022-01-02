@@ -7,6 +7,6 @@ ________________________________________________________________
 
 - Telegram Bots And Projects
 
-<b>Channel -<b> t.me/SlapTapBots 
+<i><b>Channel -<b><i> t.me/SlapTapBots 
   
 <i> Group - <i> t.me/SlapTapBotsSupport
