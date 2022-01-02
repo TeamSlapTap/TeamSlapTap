@@ -9,4 +9,4 @@ ________________________________________________________________
 
 <b>Channel -<b> t.me/SlapTapBots 
   
-<i.Group -<i>.me/SlapTapBotsSupport
+<i> Group - <i> t.me/SlapTapBotsSupport
